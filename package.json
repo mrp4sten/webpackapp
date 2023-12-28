@@ -17,5 +17,8 @@
   },
   "eslintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
   }
 }
