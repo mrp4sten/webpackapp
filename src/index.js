@@ -1,1 +1,2 @@
-console.log('Hello world!');
+import generateJoke from './generateJoke'
+console.log('generateJoke :>> ', generateJoke)
